@@ -74,8 +74,7 @@ Access denied # Blocked at the kernel level by eBPF!
 
 I am a **Network Engineer** with a passion for Infrastructure-as-Code and Cloud-Native networking. I specialize in bridging the gap between traditional networking (BGP, OSPF, VLANs) and modern container orchestration.
 
-- **LinkedIn:** [Twój Profil (Mateusz W)](https://www.linkedin.com/)
-- **Email:** wmateusz1212@gmail.com
+- **LinkedIn:**  www.linkedin.com/in/mateuszwozniak50/
 
 ---
 
