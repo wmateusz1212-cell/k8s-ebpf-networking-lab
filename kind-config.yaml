@@ -1,0 +1,9 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+networking:
+  disableDefaultCNI: true # Wyłączamy domyślne CNI (kindnet), aby zainstalować Cilium
+  kubeProxyMode: "none"   # Wyłączamy kube-proxy, aby Cilium przejęło jego rolę (eBPF mode)
+nodes:
+- role: control-plane
+- role: worker
+- role: worker
